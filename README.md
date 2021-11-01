@@ -1,24 +1,16 @@
-# editor-demo
+# README.md
+
+## Node.js version
+
+`v14.15.1`
 
 ## Project setup
+
 ```
-npm install
+$ docker-compose build
+$ docker-compose up
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Access to http://localhost:8080
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Enjoy your development :)
